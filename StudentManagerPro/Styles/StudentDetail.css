@@ -1,0 +1,180 @@
+﻿
+#container
+{
+	width: 950px;
+	text-align: center;
+}
+#StudentDetail
+{
+	width: 400px;
+	margin: 0px auto 0px auto;
+	margin-top: 10px;
+	font-size: 14px;
+	text-align: left;
+}
+.StuTable
+{
+	width: 400px;
+}
+.StuTable td
+{
+	padding: 5px;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	border-style: none;
+    border-color: inherit;
+    border-width: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+	}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul,li {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a{
+	text-decoration: none;
+	color: #333;
+	display: block;
+}
+body{
+    font-size: 14px;
+}
+.clearfix{
+	zoom:1;
+}
+.clearfix:after{
+	content:".";
+	display:block;
+	visibility:hidden;
+	height:0;
+	clear:both;
+}
+.fl,.l{
+	float: left;
+}
+.fr,.r{
+	float: right;
+}
+/*margin-top*/
+.mt10{
+	margin-top: 10px;
+}
+.mt15{
+	margin-top: 15px;
+}
+.mt20{
+	margin-top: 20px;
+}
+.mt5{
+	margin-top: 5px;
+}
+.mt0{
+	margin-top: 0px;
+}
+/*padding-left*/
+.pl15{
+	padding-left: 15px;
+}
+body{
+	background: #ddd
+}
+.loginwarrp{
+	margin: 100px auto;
+    width: 297px;
+    padding: 30px 50px;
+    background: #FFFFFF;
+    overflow: hidden;
+    font-size: 14px;
+    font-family: '微软雅黑','文泉驿正黑','黑体';
+    height: 450px;
+}
+.loginwarrp .logo{
+	width:96%;
+	height:47px;
+	line-height: 44px;
+	font-size: 20px;
+	text-align: center;
+	border-bottom:1px solid #ddd;
+}
+.loginwarrp .login_form{
+	margin-top: 15px;
+    height: 117px;
+
+}
+.loginwarrp .login_form .login-item{
+	padding: 2px 8px;
+	border:1px solid #dedede;
+	border-radius: 8px;
+	margin-top: 10px;
+    text-align:center;
+
+}
+.loginwarrp .login_form .login_input{
+	height: 35px;
+    border: none;
+    line-height: 35px;
+
+    font-size: 14px;
+    outline: none;
+}
+.loginwarrp .login_form .verify{
+	float: left;
+}
+
+.loginwarrp .verifyimg{
+	height: 30px;
+    margin: 20px 0 0 20px;
+}
+.loginwarrp .login-sub{
+	text-align: center;
+}
+.loginwarrp .login-sub input{
+	border-style: none;
+    border-color: inherit;
+    border-width: medium;
+    margin-top:15px;
+    background: #45B549;
+    line-height: 35px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: '微软雅黑','文泉驿正黑','黑体';
+    border-radius: 5px;
+    margin-left: 7px;
+}
+.loginwarrp .login_form .login-item .error{
+	color: #F00;
+	font-family: '微软雅黑','文泉驿正黑','黑体';
+}

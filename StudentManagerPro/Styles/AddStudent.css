@@ -1,0 +1,19 @@
+﻿Caption
+{
+	padding-top: 25px;
+	padding-bottom:5px;
+	padding-left:5px;
+	font-size: 14px;
+	font-weight: bold;
+	text-align:left ;
+}
+.StuInfoTable
+{
+	width: 602px;		
+    font-size:16px;
+    height: 477px;
+}
+.StuInfoTable td
+{
+	padding: 5px;
+}

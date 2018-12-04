@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainPage.master.cs" Inherits="StudentManagerPro.MainPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="Styles/MainPage.css" rel="stylesheet" type="text/css" />
+            <script type="text/javascript" src="js/jquery.min.js"></script>
+    <style type="text/css">
+*{ margin:0; padding:0; list-style:none;}
+img{ border:0;}
+.header{ width:100%; 	background-color: #99CCFF;}
+.nav{ margin:0 auto; overflow:hidden;}
+.nav ul li{ height:30px; line-height:30px; float:left; padding:10px 5px; margin:0px 5px;position:relative;}
+.nav ul li a{ color:#000; font-family:'Microsoft Yahei'; font-size:20px; text-decoration:none;}
+.nav ul li a:hover{ color:#000; text-decoration:none;}
+.nav ul li span{ display:block; position:absolute; width:0px; height:0px; background:#1FAEFF; top:58px; left:50%;}
+</style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!--网站导航条-->
+    <div id="container">
+            <div class="header">
+<div class="nav">            
+                    <ul id="menu">
+                        <li><a id="A1" runat="server" href="~/">主页</a></li>
+                        <li><a id="A2" runat="server" href="~/Student/AddStudent.aspx">添加学员</a></li>
+                        <li><a id="A3" runat="server" href="~/Student/StudentManage.aspx">学生信息管理</a></li>
+                        <li><a id="A4" runat="server" href="~/Score/ScoreManage.aspx">学生成绩分析</a></li>
+                        <li><a id="A5" runat="server" target="_blank"  href="~/SysAdmin/ChangePwd.aspx">修改密码</a></li>
+                        <li><a id="A6" runat="server" href="~/ExitSys.aspx" onclick="return confirm('确认退出吗？')">退出系统</a></li>
+                    </ul>
+                </div>
+</div>
+        <!--网站顶部部分-->
+        <div id="topBar">
+            <!--网站地图-->
+            <div id="webMapDiv">
+                <asp:SiteMapPath ID="SiteMapPath1" runat="server">
+                </asp:SiteMapPath>
+            </div>
+            <!--显示登录用户-->
+            <div id="showUserDiv">
+                <asp:Literal ID="ltaUserName" runat="server"></asp:Literal>
+            </div>
+        </div>
+        <!--[if !IE]>内容页DIV<![endif]-->
+        <div id="pageContent">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+
+        <script type="text/javascript">
+            window.onload = function () {
+                var config = {
+                    vx: 4,
+                    vy: 4,
+                    height: 2,
+                    width: 2,
+                    count: 100,
+                    color: "121, 162, 185",
+                    stroke: "100, 200, 180",
+                    dist: 6000,
+                    e_dist: 20000,
+                    max_conn: 10
+                }
+                CanvasParticle(config);
+            }
+	</script>
+	<script type="text/javascript" src="js/canvas-particle.js"></script>
+    </form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.dll
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.pdb
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\PC-XIE\Desktop\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\PC-XIE\Desktop\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\PC-XIE\Desktop\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.dll
+C:\Users\PC-XIE\Desktop\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.pdb
+C:\Users\PC-XIE\Desktop\StudentManagerPro\StudentManagerPro\obj\Release\StudentManagerPro.csprojResolveAssemblyReference.cache

@@ -1,0 +1,46 @@
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Documents and Settings\Administrator\桌面\学员管理系统\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\107_【就业班】-《项目案例》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+H:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+G:\我的项目设计\项目计划（XKT）\课程设计与教程编写\DotNetT方向\课程课件（软件开发方向）\201_【中级班】-《开发实践》_使用ASP.NET开发Web应用系统\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\ResolveAssemblyReference.cache
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+E:\06_IT-Bachelor课程（第1阶段）(580)\IT-Bachelor课程[3]：使用ASP.NET开发Web应用系统（ASP.NET基础）（项目案例）\贯穿项目\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[15]【高级后台】：ASP.NET-WebForm动态网站开发技术\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll.config
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[15]【高级后台】：ASP.NET-WebForm动态网站开发技术\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[15]【高级后台】：ASP.NET-WebForm动态网站开发技术\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[15]【高级后台】：ASP.NET-WebForm动态网站开发技术\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[15]【高级后台】：ASP.NET-WebForm动态网站开发技术\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+F:\【1】课程课件\【1】.NET\【2】A-全套课程\课程[15]【高级后台】：ASP.NET-WebForm动态网站开发技术\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.dll
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\bin\StudentManagerPro.pdb
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.csprojResolveAssemblyReference.cache
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.dll
+C:\Users\PC-XIE\Desktop\本课程资料\贯穿项目全部资料\项目案例：学员管理系统（web版）\StudentManagerPro\StudentManagerPro\obj\Debug\StudentManagerPro.pdb
